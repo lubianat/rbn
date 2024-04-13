@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Tiago Lubiana
+title: Enrico Tosto
 
 # Full Name (for SEO)
-first_name: Tiago
-last_name: Lubiana
+first_name: Enrico
+last_name: Tosto
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Doutorando em Bioinformática
