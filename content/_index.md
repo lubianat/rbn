@@ -7,15 +7,13 @@ type: landing
 sections:
   - block: hero
     content:
-      title: |
-        Wowchemy
-        Research Group
+      title: Rede Brasileira de Naturalistas
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        A **Rede Brasileira de Naturalistas** é um coletivo de brasileiros dedicados a apoiar e prover o iNaturalist no Brasil. Dessa forma, queremos promover um maior contato e apreciação dos brasileiros por nossa natureza, assim como sustentar o avanço de estudos acadêmicos utilizando a plataforma para sistemática, ecologia e conservação.  
   
   - block: collection
     content:
