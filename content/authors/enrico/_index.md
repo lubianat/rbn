@@ -28,7 +28,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:tiago.lubiana.alves@usp.br'
-  - icon: inaturalist
+  - icon: academicons/inaturalist
     icon_pack: academicons
     link: https://www.inaturalist.org/people/tiagolubiana
   - icon: github
