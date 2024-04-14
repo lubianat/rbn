@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Enrico Tosto
+title: José Valério
 
 # Full Name (for SEO)
-first_name: Enrico
-last_name: Tosto
+first_name: José
+last_name: Valério
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: ''
+role: 'Biólogo'
 
 # Organizations/Affiliations
 organizations:
-  - name: ()
+  - name: ''
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,7 +27,7 @@ bio:  iNaturalista (bio temporária)
 social:
   - icon: envelope
     icon_pack: fas
-    link: https://www.inaturalist.org/people/enricotosto96
+    link: https://www.inaturalist.org/people/josev_ge
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
