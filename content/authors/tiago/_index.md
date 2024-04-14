@@ -25,14 +25,9 @@ bio:  Wikipedista, cientista e iNaturalista.
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:tiago.lubiana.alves@usp.br'
-  - icon: inat-custom # From https://iconduck.com/icons/195738/inaturalist-square
+  - icon: twitter
     link: https://www.inaturalist.org/people/tiagolubiana
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/lubianat
+
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
