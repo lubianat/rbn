@@ -38,4 +38,4 @@ user_groups:
   - Membros
 ---
 
-Tiago Lubiana é doutorando do Programa de Bioinformática da Universidade de São Paulo, onde estuda o uso do Wikidata para organizar o conhecimento sobre células biológicas. Contribui para o iNaturalist desde 2019 e atua com a comunidade do WikiProjeto Biodiversidade para aprimorar as cooperações entre o iNaturalist e as plataformas Wikimedia. 
+Tiago Lubiana (<a href="https://www.inaturalist.org/people/tiagolubiana">@tiagolubiana</a>) é doutorando do Programa de Bioinformática da Universidade de São Paulo, onde estuda o uso do Wikidata para organizar o conhecimento sobre células biológicas. Contribui para o iNaturalist desde 2019 e atua com a comunidade do WikiProjeto Biodiversidade para aprimorar as cooperações entre o iNaturalist e as plataformas Wikimedia. 
