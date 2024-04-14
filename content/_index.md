@@ -17,7 +17,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: últimas Notícias
       subtitle:
       text:
       count: 5

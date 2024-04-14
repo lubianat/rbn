@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Rede Brasileira de Naturalistas # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://lubianat.github.io/rbn/' # Website URL
 
 ############################
 ## LANGUAGE
