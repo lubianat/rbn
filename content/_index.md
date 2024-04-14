@@ -9,7 +9,7 @@ sections:
     content:
       title: Rede Brasileira de Naturalistas
       image:
-        filename: welcome.jpg
+        filename: welcome.png
       text: |
         <br>
         
