@@ -10,15 +10,15 @@ last_name: Tosto
 superuser: false
 
 # Role/position
-role: ''
+role: 'Biólogo'
 
 # Organizations/Affiliations
 organizations:
-  - name: ()
+  - name: Biosensu Consultoria Ambiental 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio:  iNaturalista (bio temporária)
+bio:  Sócio e consultor ambiental da Biosensu Consultoria Ambiental e moderador das plataformas iNaturalist e Wiki Borboleta
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -38,4 +38,4 @@ user_groups:
   - Membros
 ---
 
-Essa pessoa é do Brasil e usa o iNaturalist (descrição temporária)
+ Biólogo pela Universidade de São Paulo com experiência em Zoologia e Ecologia, principalmente com aves, mamíferos e insetos. Atuou em alguns projetos de educação ambiental e divulgação científica, como o Grupo Ibiraçu, Besouros do Brasil e também no Instituto Butantan. Atualmente é sócio e consultor ambiental da Biosensu Consultoria Ambiental e também atua como moderador das plataformas iNaturalist e Wiki Borboleta

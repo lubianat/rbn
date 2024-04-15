@@ -17,7 +17,7 @@ sections:
   
   - block: collection
     content:
-      title: últimas Notícias
+      title: Últimas Notícias
       subtitle:
       text:
       count: 5
@@ -59,7 +59,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="Conheça a equipe →" %}}
     design:
       columns: '1'
 ---
