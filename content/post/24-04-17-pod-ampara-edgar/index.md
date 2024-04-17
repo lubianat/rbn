@@ -1,5 +1,5 @@
 ---
-title: Edgar Crispino, participa do Podcast "Quem Pod, Ampara" 
+title: Edgar Crispino participa do Podcast "Quem Pod, Ampara" 
 date: 2024-04-17
 ---
 
