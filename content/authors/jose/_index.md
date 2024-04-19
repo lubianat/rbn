@@ -1,10 +1,10 @@
 ---
 # Display name
-title: José Valério
+title: José Valério Gentil Escrig
 
 # Full Name (for SEO)
-first_name: José
-last_name: Valério
+first_name: José Valério
+last_name: Gentil Escrig
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio:  iNaturalista (bio temporária)
+bio:  Biólogo
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -38,4 +38,4 @@ user_groups:
   - Membros
 ---
 
-Essa pessoa é do Brasil e usa o iNaturalist (descrição temporária)
+Biólogo pela Universidade Presbiteriana Mackenzie com experiência em comportamento de primatas, Comportamento Animal e Zoologia. Já atuou com educação ambiental e ciência cidadã através da realização de eventos, aulas e iniciativas de conservação em áreas rurais das cidades de Amparo e Valinhos. Também teve atuação como guia de observação de fauna, consultoria ambiental e monitoramento de fauna. Atualmente é Curador na plataforma iNaturalist e um dos organizadores dos eventos de ciência cidadã “Desafio Natureza Urbana” e “Grande Bioblitz do Hemisfério Sul” na região metropolitana de São Paulo. 
