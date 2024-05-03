@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Edgar Crispino
+title: Edgar Blois Crispino​
 
 # Full Name (for SEO)
 first_name: Edgar
@@ -10,7 +10,7 @@ last_name: Crispino
 superuser: false
 
 # Role/position
-role: Professor de Biologia e Pesquisador Associado
+role: Biólogo e Professor
 
 # Organizations/Affiliations
 organizations:
@@ -39,4 +39,8 @@ user_groups:
   - Membros
 ---
 
-Essa pessoa é do Brasil e usa o iNaturalist (descrição temporária)
+Edgar é biólogo formado pelo Instituto de Biociências da Universidade de São Paulo (IB-USP) e mestre em Sistemática, Taxonomia Animal e Biodiversidade pelo Museu de Zoologia da Universidade de São Paulo (MZUSP).
+
+É professor de Ensino Médio na rede particular de SP e trabalha em paralelo com pesquisas na área de educação formal e informal, desenvolvendo materiais didáticos, jogos educativos e estratégias de ensino. Trabalha também como pesquisador do Projeto Phasma, único grupo dedicado exclusivamente ao estudo de bichos-pau no Brasil, trabalhando com taxonomia e ecologia destes insetos.
+
+Paralelamente, dedica-se de forma voluntária aos serviços de curadoria do iNaturalist, uma ONG internacional de Ciência Cidadã com a missão de aproximar as pessoas com a biodiversidade em seu entorno.

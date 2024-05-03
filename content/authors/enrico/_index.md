@@ -10,7 +10,7 @@ last_name: Tosto
 superuser: false
 
 # Role/position
-role: 'Consultor ambiental'
+role: 'Biólogo e Consultor ambiental'
 
 # Organizations/Affiliations
 organizations:
