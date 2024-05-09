@@ -47,7 +47,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Rede Brasileira de Naturalistas. O conteúdo desse site está disponível na licença {license}'
+    notice: '© {year} Rede Brasileira de Naturalistas ({license}). Código fonte do site aberto no [GitHub](https://github.com/lubianat/rbn). '
     license:
       enable: true
       allow_derivatives: true

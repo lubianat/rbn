@@ -12,7 +12,7 @@ sections:
         Quer se juntar a rede, tem dúvidas sobre o iNaturalist ou gostaria de apoio para algum projeto? Ótimo, estamos aqui para ajudar! 
         Na página da Equipe, sinta-se a vontade para entrar em contato com algum membro que tenha um perfil parecido com o que você procura.
         Se estiver na dúvida, mande uma mensagem para o e-mail abaixo e lidaremos com sua solicitação: 
-      email: tiago.lubiana.alves@usp.br
+      email: rbnaturalistas@gmail.com
       # phone: 888 888 88 88
       # address:
       #   street: 450 Serra Mall
