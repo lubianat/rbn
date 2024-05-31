@@ -7,17 +7,7 @@ event_url: https://www.inaturalist.org/projects/bioblitz-bichos-do-pet
 location:	Parque Ecológico do Tietê - SP
 
 summary: BioBlitz no Parque Ecológico do Tietê - SP
-abstract: A BioBlitz "Bichos do PET" tem como objetivos promover o conhecimento, a valorização sobre a diversidade de animais silvestres que vivem no Parque Ecológico do Tietê e especialmente proporcionar uma maior aproximação das pessoas com a natureza.
-
-A ação é gratuita e faz parte da programação da Semana do Meio Ambiente promovida pela Secretaria de Meio Ambiente , Infraestrutura e Logística do Estado de São Paulo e contará com a participação dos membros da Rede Brasileira de Naturalistas.
-
-Nosso encontro presencial acontecerá dia 2 de junho no Museu do Tietê das 10h às 12h e 13h às 15h.
-
-Para conferir a programação completa da [Semana do Meio Ambiente 2024](https://semil.sp.gov.br/2024/05/semil-apresenta-acoes-para-a-semana-do-meio-ambiente/)
-
-Para saber mais sobre a [Rede Brasileira de Naturalistas](https://redenaturalista.org/)
-
-Boas observações
+abstract: A BioBlitz "Bichos do PET" tem como objetivos promover o conhecimento, a valorização sobre a diversidade de animais silvestres que vivem no Parque Ecológico do Tietê e especialmente proporcionar uma maior aproximação das pessoas com a natureza. A ação é gratuita e faz parte da programação da Semana do Meio Ambiente promovida pela Secretaria de Meio Ambiente , Infraestrutura e Logística do Estado de São Paulo e contará com a participação dos membros da Rede Brasileira de Naturalistas. Nosso encontro presencial acontecerá dia 2 de junho no Museu do Tietê das 10h às 12h e 13h às 15h. Para conferir a programação completa da [Semana do Meio Ambiente 2024](https://semil.sp.gov.br/2024/05/semil-apresenta-acoes-para-a-semana-do-meio-ambiente/)e para saber mais sobre a [Rede Brasileira de Naturalistas](https://redenaturalista.org/). Boas observações!
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
