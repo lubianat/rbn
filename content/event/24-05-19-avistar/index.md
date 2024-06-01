@@ -11,7 +11,7 @@ abstract: Em mais uma participação em evento, a RBN foi representada pelos mem
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-06-02T04:00:00Z'
+date: '2024-05-19T14:00:00Z'
 #date_end: '2024-06-05T20:45:00Z'
 all_day: false
 
