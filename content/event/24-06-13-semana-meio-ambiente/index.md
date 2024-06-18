@@ -6,7 +6,7 @@ event_url:
 
 location: São Paulo, SP
 
-summary: Bruno, José e Enrico participam da Semana do Meio Ambiente
+summary: Semana do Meio Ambiente no PET
 abstract: A Semana do Meio Ambiente é um evento que ocorre todo ano e é promovido pelo Governo do Estado de São Paulo via Secretária de Meio Ambiente, Infraestrutura e Logística (SEMIL). Com uma programação diversificada de atividades dos dias 2 a 7 de junho, no domingo (02/06) será realizada a bioblitz no Parque Ecológico Tietê (PET) pela manhã.
 
 # Talk start and end times.
