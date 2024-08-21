@@ -10,9 +10,9 @@ main:
   - name: Equipe
     url: people
     weight: 30
-  - name: Eventos
-    url: event
-    weight: 40
+  # - name: Eventos
+  #   url: event
+  #   weight: 40
   - name: Contato
     url: contact
     weight: 60
