@@ -35,7 +35,7 @@ sections:
          name: Fale conosco no Forum do iNaturalist
          link: 'https://forum.inaturalist.org/t/we-are-planning-inat-network-node-in-brazil-anyone-interested/50042'
        - icon: instagram
-         icon_pack: fas
+         icon_pack: fa
          name: Mande uma mensagem pelo Instagram
          link: 'https://www.instagram.com/rbnaturalistas'
     
