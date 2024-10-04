@@ -9,19 +9,19 @@ Saíram os ganhadores do Concurso Fotográfico iNaturalist & Wikipédia 2024!!
 
 **1º lugar: Boana faber por fmiudo**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Boana_faber_-_Fernando_Sessegolo_-_347692338.jpeg" alt="Boana faber, por fmiudo" width="500"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Boana_faber_-_Fernando_Sessegolo_-_347692338.jpeg" alt="Boana faber, por fmiudo" width="500"/>
 
 [Ver no iNaturalist](https://www.inaturalist.org/observations/197414345)  
 
 **2º lugar: Tigrisoma fasciatum por christopher_borges**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigrisoma_fasciatum_-_....Christopher_Borges...._-_377943834.jpeg" alt="Tigrisoma fasciatum, por christopher_borges" width="500"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Tigrisoma_fasciatum_-_....Christopher_Borges...._-_377943834.jpeg/640px-Tigrisoma_fasciatum_-_....Christopher_Borges...._-_377943834.jpeg" alt="Tigrisoma fasciatum, por christopher_borges" width="500"/>
 
 [Ver no iNaturalist](https://www.inaturalist.org/observations/213847808)  
 
 **3º lugar: Xiphocolaptes albicollis por alineantunes**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Xiphocolaptes_albicollis_-_Aline_Fernanda_Antunes_-_381985562.jpeg" alt="Xiphocolaptes albicollis, por alineantunes" width="500"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Xiphocolaptes_albicollis_-_Aline_Fernanda_Antunes_-_381985562.jpeg/1200px-Xiphocolaptes_albicollis_-_Aline_Fernanda_Antunes_-_381985562.jpeg?20240915003637" alt="Xiphocolaptes albicollis, por alineantunes" width="500"/>
 
 [Ver no iNaturalist](https://www.inaturalist.org/observations/216015471)  
 
@@ -29,19 +29,19 @@ Saíram os ganhadores do Concurso Fotográfico iNaturalist & Wikipédia 2024!!
 
 **1º lugar: Galeacius martini por carlosalexandreraposo**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Galeacius_martini%2C_Carlos_Alexandre_Mattos_Raposo_-_334128311.jpeg" alt="Galeacius martini, por carlosalexandreraposo" width="500"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Galeacius_martini%2C_Carlos_Alexandre_Mattos_Raposo_-_334128311.jpeg/640px-Galeacius_martini%2C_Carlos_Alexandre_Mattos_Raposo_-_334128311.jpeg" alt="Galeacius martini, por carlosalexandreraposo" width="500"/>
 
 [Ver no iNaturalist](https://www.inaturalist.org/observations/190578522)  
 
 **2º lugar: Acanthops falcataria por leobreder**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Acanthops_falcataria_-_Leonardo_Breder_Passalacqua_-_364643139.jpeg" alt="Acanthops falcataria, por leobreder" width="500"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Acanthops_falcataria_-_Leonardo_Breder_Passalacqua_-_364643139.jpeg/640px-Acanthops_falcataria_-_Leonardo_Breder_Passalacqua_-_364643139.jpeg" alt="Acanthops falcataria, por leobreder" width="500"/>
 
 [Ver no iNaturalist](https://www.inaturalist.org/observations/205753152)  
 
 **3º lugar: Misumenops callinurus por biologodepracinha**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Misumenops_callinurus_by_Andr%C3%A9_Nogueira_-_362594012.jpeg" alt="Misumenops callinurus, por biologodepracinha" width="500"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Misumenops_callinurus_by_Andr%C3%A9_Nogueira_-_362594012.jpeg/640px-Misumenops_callinurus_by_Andr%C3%A9_Nogueira_-_362594012.jpeg" alt="Misumenops callinurus, por biologodepracinha" width="500"/>
 
 [Ver no iNaturalist](https://www.inaturalist.org/observations/205094850)  
 
@@ -49,19 +49,19 @@ Saíram os ganhadores do Concurso Fotográfico iNaturalist & Wikipédia 2024!!
 
 **1º lugar: Neoregelia pascoaliana por vitorcdg**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Neoregelia_pascoaliana_by_Vitor_Corr%C3%AAa_Dias_-_410790014.jpeg" alt="Neoregelia pascoaliana, por vitorcdg" width="500"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Neoregelia_pascoaliana_by_Vitor_Corr%C3%AAa_Dias_-_410790014.jpeg/640px-Neoregelia_pascoaliana_by_Vitor_Corr%C3%AAa_Dias_-_410790014.jpeg" alt="Neoregelia pascoaliana, por vitorcdg" width="500"/>
 
 [Ver no iNaturalist](https://www.inaturalist.org/observations/231303390)  
 
 **2º lugar: Olivancillaria auricularia por henriqueandrades**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Olivancillaria_auricularia_by_henriqueandrades_-_347168397.jpeg" alt="Olivancillaria auricularia, por henriqueandrades" width="500"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Olivancillaria_auricularia_by_henriqueandrades_-_347168397.jpeg/640px-Olivancillaria_auricularia_by_henriqueandrades_-_347168397.jpeg" alt="Olivancillaria auricularia, por henriqueandrades" width="500"/>
 
 [Ver no iNaturalist](https://www.inaturalist.org/observations/197154977)  
 
 **3º lugar: Encope emarginata por lkz**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Encope_emarginata_by_Lucas_Lopes_-_398448422.jpeg" alt="Encope emarginata, por lkz" width="500"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Encope_emarginata_by_Lucas_Lopes_-_398448422.jpeg/900px-Encope_emarginata_by_Lucas_Lopes_-_398448422.jpeg?20240914192913" alt="Encope emarginata, por lkz" width="500"/>
 
 [Ver no iNaturalist](https://www.inaturalist.org/observations/224786432)  
 
