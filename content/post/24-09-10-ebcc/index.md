@@ -1,84 +1,14 @@
 ---
-title: Edgar Crispino participa do Podcast "Quem Pod, Ampara" 
-date: 2024-04-17
+title: A RBN participou do I Encontro Brasileiro de Ciência Cidadã
+date: 2024-09-12
 ---
 
-Saíram os ganhadores do Concurso Fotográfico iNaturalist & Wikipédia 2024!!  
+A RBN participou do I Encontro Brasileiro de Ciência Cidadã (EBCC), que aconteceu dos dias 10 a 12 de setembro, na UFABC de São Bernardo do Campo/SP. Os membros Enrico e Bruno participaram do evento no dia 10 e puderam ver algumas palestras sobre projetos ativos de ciência cidadã em diferentes partes do Brasil, mesas redondas acerca da questão da ciência cidadã em si e seu desafios no Brasil, assim como a visualização de painéis sobre a temática em diferentes aplicações.
 
-## CATEGORIA “VERTEBRADOS”
+A primeira edição foi realizada pela Rede Brasileira de Ciência Cidadã (RBCC), fundada em 2021, em parceria com a UFABC, sendo um primeiro passo importante para expandir as discussões sobre o tema no Brasil. O tema dessa primeira edição foi "Qual ciência cidadã queremos?", mostrando o interesse principal de se discutir qual o real objetivo e aplicação dessa ciência para pautar ações futuras em diferentes frentes.
 
-**1º lugar: Boana faber por fmiudo**
+Como definido pela própria RBCC, a ciência cidadã pode ser entendida como uma ampla gama de possibilidades de parcerias entre cientistas e pessoas interessadas em ciência. No Brasil, é um campo de prática e de pesquisa em expansão, com diferentes iniciativas sendo conduzidas de maneira independente por diferentes instituições e grupos sociais. Esse campo do conhecimento é de suma importância para a disseminação de conteúdos de natureza para a sociedade e para a aplicação de políticas públicas por tomadores de decisão.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Boana_faber_-_Fernando_Sessegolo_-_347692338.jpeg" alt="Boana faber, por fmiudo" width="500"/>
+Muitos dos projetos presentes nesse evento abordaram o uso da plataforma iNaturalist e, como esperado, apontaram para um grande potencial da expansão da plataforma no país, assim como demonstraram uma necessidade de maior participação de cientistas tradicionais atuando na moderação da plataforma.
 
-[Ver no iNaturalist](https://www.inaturalist.org/observations/197414345)  
-
-**2º lugar: Tigrisoma fasciatum por christopher_borges**
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigrisoma_fasciatum_-_....Christopher_Borges...._-_377943834.jpeg" alt="Tigrisoma fasciatum, por christopher_borges" width="500"/>
-
-[Ver no iNaturalist](https://www.inaturalist.org/observations/213847808)  
-
-**3º lugar: Xiphocolaptes albicollis por alineantunes**
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Xiphocolaptes_albicollis_-_Aline_Fernanda_Antunes_-_381985562.jpeg" alt="Xiphocolaptes albicollis, por alineantunes" width="500"/>
-
-[Ver no iNaturalist](https://www.inaturalist.org/observations/216015471)  
-
-## CATEGORIA “INVERTEBRADOS”
-
-**1º lugar: Galeacius martini por carlosalexandreraposo**
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Galeacius_martini%2C_Carlos_Alexandre_Mattos_Raposo_-_334128311.jpeg" alt="Galeacius martini, por carlosalexandreraposo" width="500"/>
-
-[Ver no iNaturalist](https://www.inaturalist.org/observations/190578522)  
-
-**2º lugar: Acanthops falcataria por leobreder**
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Acanthops_falcataria_-_Leonardo_Breder_Passalacqua_-_364643139.jpeg" alt="Acanthops falcataria, por leobreder" width="500"/>
-
-[Ver no iNaturalist](https://www.inaturalist.org/observations/205753152)  
-
-**3º lugar: Misumenops callinurus por biologodepracinha**
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Misumenops_callinurus_by_Andr%C3%A9_Nogueira_-_362594012.jpeg" alt="Misumenops callinurus, por biologodepracinha" width="500"/>
-
-[Ver no iNaturalist](https://www.inaturalist.org/observations/205094850)  
-
-## CATEGORIA “OUTROS”
-
-**1º lugar: Neoregelia pascoaliana por vitorcdg**
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Neoregelia_pascoaliana_by_Vitor_Corr%C3%AAa_Dias_-_410790014.jpeg" alt="Neoregelia pascoaliana, por vitorcdg" width="500"/>
-
-[Ver no iNaturalist](https://www.inaturalist.org/observations/231303390)  
-
-**2º lugar: Olivancillaria auricularia por henriqueandrades**
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Olivancillaria_auricularia_by_henriqueandrades_-_347168397.jpeg" alt="Olivancillaria auricularia, por henriqueandrades" width="500"/>
-
-[Ver no iNaturalist](https://www.inaturalist.org/observations/197154977)  
-
-**3º lugar: Encope emarginata por lkz**
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Encope_emarginata_by_Lucas_Lopes_-_398448422.jpeg" alt="Encope emarginata, por lkz" width="500"/>
-
-[Ver no iNaturalist](https://www.inaturalist.org/observations/224786432)  
-
----
-
-Agradecemos a todo mundo que participou, as fotos enviadas foram excelentes e foi MUITO difícil escolher as imagens vencedoras. Antes de tudo, então, parabéns!!  
-
-Os critérios incluiram não só a qualidade da foto em si, mas seu valor didático e científico. As fotos foram avaliadas pela equipe da RBN, levando em consideração as demandas do Wikimedia Commons e da competição em si.  
-
-Todas as fotos, premiadas ou não, estão sendo carregadas na base de imagens da Wikipédia e estarão contribuindo para a educação sobre a nossa biodiversidade para todo o planeta!  
-
-Espero que tenha sido uma experiência divertida para quem participou!  
-
-As fotos estão sendo disponibilizadas na página  
-
-No link abaixo, é possível ver quais páginas dos projetos Wiki estão usando as imagens participantes para promover o conhecimento livre:  
-
-[https://glamtools.toolforge.org/glamorous.php?doit=1&category=Wikiconcurso+iNaturalist+2024&show_details=1&projects[wikipedia]=1&projects[wikibooks]=1&projects[wikispecies]=1&projects[wikidata]=1&projects[wikiversity]=1](https://glamtools.toolforge.org/glamorous.php?doit=1&category=Wikiconcurso+iNaturalist+2024&show_details=1&projects[wikipedia]=1&projects[wikibooks]=1&projects[wikispecies]=1&projects[wikidata]=1&projects[wikiversity]=1)  
-
-Mais uma vez, parabéns!
+A RBN agradece a oportunidade de participar do evento e espera que a ciência cidadã possa se expandir cada vez mais no Brasil, com a participação de mais pessoas e instituições interessadas em ciência e conservação da natureza.
