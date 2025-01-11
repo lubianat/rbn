@@ -7,7 +7,7 @@ main:
   - name: Notícias
     url: post
     weight: 10
-  - name: Equipe
+  - name: Membros
     url: people
     weight: 30
   # - name: Eventos
