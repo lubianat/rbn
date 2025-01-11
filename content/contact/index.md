@@ -10,7 +10,7 @@ sections:
       title: Contato
       text: |-
         Quer se juntar a rede, tem dúvidas sobre o iNaturalist ou gostaria de apoio para algum projeto? Ótimo, estamos aqui para ajudar! 
-        Na página da Equipe, sinta-se a vontade para entrar em contato com algum membro que tenha um perfil parecido com o que você procura.
+        Na página da Membros, sinta-se a vontade para entrar em contato com algum membro que tenha um perfil parecido com o que você procura.
         Se estiver na dúvida, mande uma mensagem para o e-mail abaixo e lidaremos com sua solicitação: 
       email: rbnaturalistas@gmail.com
       # phone: 888 888 88 88
