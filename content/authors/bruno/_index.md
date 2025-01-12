@@ -14,7 +14,7 @@ role: 'Biólogo e Assessor Técnico'
 
 # Organizations/Affiliations
 organizations:
-  - name: 'Coordenadoria de Fauna Silvestre do estado de São Paulo'
+  - name: 'Coordenadoria de Fauna Silvestre do Estado de São Paulo'
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
