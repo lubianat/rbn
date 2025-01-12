@@ -20,7 +20,7 @@ sections:
       title: Últimas Notícias
       subtitle:
       text:
-      count: 5
+      count: 3
       filters:
         author: ''
         category: ''
