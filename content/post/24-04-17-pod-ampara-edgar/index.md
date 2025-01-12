@@ -44,8 +44,7 @@ O Instituto Ampara Animal é uma Organização da Sociedade Civil de Interesse P
 @institutoamparanimal (www.tiktok.com/@institutoamparanimal)  
 
 ✅ LinkedIn oficial  
-@institutoamparanimal ( 
- / institutoamparanimal  )  
+@institutoamparanimal (br.linkedin.com/company/institutoamparanimal)  
 
 -------------------------------------------------------------------------------------- 
 
