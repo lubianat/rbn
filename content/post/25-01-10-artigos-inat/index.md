@@ -6,11 +6,12 @@ autor: enrico
 
 **Distribuição da preguiça-comum (Bradypus variegatus) em João Pessoa/PB**
 
-Um estudo realizado pelos biólogos da Universidade Federal da Paraíba (UFPB), Natan D. A. de Freitas (@natan.daf), Isabella S. Miranda (@isabellamirnd), João C, C, Abraão-Filho (@joaoabraaofilho) e Marília C. P. da Paz (@mariiiilis), mostrou o papel da ciência cidadã para a compreensão das observações da biodiversidade no município de João Pessoa/PB, com foco na preguiça-comum (Bradypus variegatus).
+Um estudo realizado pelos biólogos da Universidade Federal da Paraíba (UFPB), Natan D. A. de Freitas (@natan.daf), Isabella S. Miranda (@isabellamirnd), João C. C. Abraão-Filho (@joaoabraaofilho) e Marília C. P. da Paz (@mariiiilis), mostrou o papel da ciência cidadã para a compreensão das observações da biodiversidade no município de João Pessoa/PB, com foco na preguiça-comum (Bradypus variegatus).
 
 Esse estudo levantou os registros de biodiversidade na cidade presentes na plataforma iNaturalist, onde foi possível notar uma similaridade dos padrões de observações ao longo dos anos para toda a biodiversidade urbana e para a espécie-alvo (preguiça-comum). As áreas verdes mostraram ser refúgios importantes para a fauna urbana no município, além de serem importantes para os cidadãos, por meio de atividades de observação de natureza.
 
 Podem ver mais detalhes sobre esse estudo no link: https://www.youtube.com/watch?v=UDuBsmIi3gk
+
 
 **iNaturalist como ferramenta de ensino**
 
