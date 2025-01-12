@@ -32,10 +32,10 @@ sections:
       contact_links:
        - icon: comments
          icon_pack: fas
-         name: Fale conosco no Forum do iNaturalist
+         name: Fale conosco no Fórum do iNaturalist
          link: 'https://forum.inaturalist.org/t/we-are-planning-inat-network-node-in-brazil-anyone-interested/50042'
        - icon: instagram
-         icon_pack: fa
+         icon_pack: fa-instagram
          name: Mande uma mensagem pelo Instagram
          link: 'https://www.instagram.com/rbnaturalistas'
     
