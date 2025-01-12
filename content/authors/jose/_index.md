@@ -1,6 +1,6 @@
 ---
 # Display name
-title: José Valério Gentil Escrig
+title: José Valério Gentil Escrig - SP
 
 # Full Name (for SEO)
 first_name: José Valério
