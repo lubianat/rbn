@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tiago Lubiana
+title: Tiago Lubiana - SP
 
 # Full Name (for SEO)
 first_name: Tiago
