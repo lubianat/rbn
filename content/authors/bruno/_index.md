@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bruno Henrique Aranda
+title: Bruno Henrique Aranda - SP
 
 # Full Name (for SEO)
 first_name: Bruno Henrique
