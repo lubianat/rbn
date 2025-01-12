@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Enrico Tosto
+title: Enrico A. R. Tosto - SP
 
 # Full Name (for SEO)
-first_name: Enrico
+first_name: Enrico A. R.
 last_name: Tosto
 
 # Is this the primary user of the site?
