@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Edgar Blois Crispino​
+title: Edgar Blois Crispino​ - SP
 
 # Full Name (for SEO)
 first_name: Edgar
