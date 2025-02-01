@@ -13,7 +13,7 @@ sections:
       text: |
         <br>
         
-        A **Rede Brasileira de Naturalistas** é um coletivo de brasileiros dedicados a apoiar e prover o iNaturalist no Brasil. Dessa forma, queremos promover um maior contato e apreciação dos brasileiros por nossa natureza, assim como sustentar o avanço de estudos acadêmicos utilizando a plataforma para sistemática, ecologia e conservação.  
+        A **Rede Brasileira de Naturalistas** é um coletivo de brasileiros dedicados a apoiar e promover o iNaturalist no Brasil. Dessa forma, queremos promover um maior contato e apreciação dos brasileiros por nossa natureza, assim como sustentar o avanço de estudos acadêmicos utilizando a plataforma para sistemática, ecologia e conservação.  
   
   - block: collection
     content:
